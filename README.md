@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Features
 - Welcome screen with suggestion cards
 - User and AI message bubbles
@@ -18,6 +19,5 @@
 - JavaScript
 - jQuery
 - Bootstrap 5
-- Font Awesome
-- Google Fonts
-11. How to zip and submit
+
+
